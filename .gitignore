@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/IOCTL/.vs/IOCTL/v15
+/IOCTL/IOCTL/x64/Release
+/IOCTL/IOCTLDriver/x64/Release
+/IOCTL/x64/Release
