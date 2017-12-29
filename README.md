@@ -15,4 +15,6 @@ simple communication between kernelmode[R0] and usermode[R3]
 
 ## Authors
 
-* **Thomas Leiter** - *Lead Developer* - [tomLadder](https://github.com/tomLadder)
+[<img alt="Thomas Leiter" src="https://avatars3.githubusercontent.com/u/20393156?s=400&u=ae0a43de5d81d58a698abffe4e2ede024f2b6700&v=4" width="117">](https://github.com/tomLadder) |
+:---:
+|[Thomas Leiter](https://github.com/tomLadder)|
